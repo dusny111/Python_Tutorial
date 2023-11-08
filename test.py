@@ -7,7 +7,10 @@
 # @param
 
 
-a = 12
-print(id(a))
-b = 13
-print(b)
+def hello_world():
+    """test function"""
+    print("hello world!")
+
+
+if __name__ == "__main__":
+    hello_world()
