@@ -11,5 +11,3 @@ a = 12
 print(id(a))
 b = 13
 print(b)
-e = 19
-print(e)
