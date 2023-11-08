@@ -11,3 +11,5 @@ a = 12
 print(id(a))
 b = 13
 print(b)
+c = 15
+print(15)
