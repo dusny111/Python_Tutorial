@@ -13,5 +13,3 @@ b = 13
 print(b)
 c = 15
 print(c)
-d = 16
-print(d)
