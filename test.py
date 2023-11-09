@@ -6,9 +6,9 @@
 # TODO
 # @param
 
-
-import threading
-import time
+# *Thread学习
+# import threading
+# import time
 
 # *Thread继承
 # class MyThread(threading.Thread):
